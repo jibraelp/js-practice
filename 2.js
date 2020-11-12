@@ -1,6 +1,6 @@
-let jib = 69
+let j = 70
 
-while (jib > 0) {
-	console.log("jib is greater " + jib)	
-	jib = jib - 1
+while (j > 0) {
+	console.log("j is greater " + jib)	
+	j = j - 1
 }
